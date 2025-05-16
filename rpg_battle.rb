@@ -53,4 +53,3 @@ class Constants
 end
 
 Game.new
-yes
